@@ -2,6 +2,8 @@
 
 **Decidefy**, kararsızlık anlarını eğlenceye dönüştüren, içinde interaktif bir karar çarkı ve refleks tabanlı mini oyunlar barındıran modern bir web uygulamasıdır.
 
+wesite: https://asteroid-se.github.io/decideify/
+
 ![Decidefy Preview](https://img.shields.io/badge/UI-Glassmorphism-blue)
 ![Decidefy Preview](https://img.shields.io/badge/Interactive-CanvasAPI-pink)
 ![Decidefy Preview](https://img.shields.io/badge/Fun-Confetti-yellow)
