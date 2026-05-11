@@ -1,12 +1,3 @@
-git clone https://github.com/kullaniciadi/decidefy.git
-    ```
-2.  `index.html` dosyasını tarayıcında aç.
-3.  Kararını ver veyaHarika gidiyoruz! **Decidefy** artık sadece basit bir çark değil, içinde oyun modu olan, sesli ve animasyonlu tam teşekküllü bir platform haline geldi. Bu emeği şanına yaraşır, "star" alacak bir README ile taçlandıralım.
-
-Aşağıdaki metni projenin kök dizinindeki `README.md` dosyasına yapıştırabilirsin:
-
----
-
 # 🚀 Decidefy: The Ultimate Decision Hub 🎡
 
 **Decidefy**, kararsızlık anlarını eğlenceye dönüştüren, içinde interaktif bir karar çarkı ve refleks tabanlı mini oyunlar barındıran modern bir web uygulamasıdır.
